@@ -2,5 +2,5 @@
 * text=auto eol=lf
 
 /**        export-ignore
-/your-extension-name    !export-ignore
-/your-extension-name/** !export-ignore
+/mp-addons    !export-ignore
+/mp-addons/** !export-ignore
